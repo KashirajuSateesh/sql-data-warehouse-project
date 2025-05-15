@@ -14,7 +14,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 Building a modern data warehouse with SQL server. including ETL process, data modeling and analysis
 
 #### Specifications
-_ **Data Sources**: Import data from two soutce systems (ERO and CRM) provided as CSV files.
+- **Data Sources**: Import data from two soutce systems (ERO and CRM) provided as CSV files.
 **Data Quality**: Cleanse and resolve data quality issues prior to analysis
 **Integration**: Combine both sources intlo a single, user-friendly data model designed for analytical queries.
 **Scope**: Focus on latest dataset only
