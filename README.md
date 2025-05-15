@@ -15,10 +15,10 @@ Building a modern data warehouse with SQL server. including ETL process, data mo
 
 #### Specifications
 - **Data Sources**: Import data from two soutce systems (ERO and CRM) provided as CSV files.
-**Data Quality**: Cleanse and resolve data quality issues prior to analysis
-**Integration**: Combine both sources intlo a single, user-friendly data model designed for analytical queries.
-**Scope**: Focus on latest dataset only
-**Documentation**: Provide clear documentation of the data miodel to support both business stakeholders and analytics teams.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis
+- **Integration**: Combine both sources intlo a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on latest dataset only
+- **Documentation**: Provide clear documentation of the data miodel to support both business stakeholders and analytics teams.
 
 ---
 
